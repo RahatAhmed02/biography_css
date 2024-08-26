@@ -1,0 +1,62 @@
+
+body {
+    font-family: 'Verdana', sans-serif;
+    line-height: 1.6;
+    margin: 40px;
+    padding: 0;
+    background-color: #108a6e;
+    color: #082b19;
+}
+
+
+#main-heading {
+    background-color: #108a6e;
+    color: #b6f2e4;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+
+.bio_section {
+    background-color: #b6f2e4;
+    padding: 50px;
+    margin: 20px 0;
+    border-radius: 50px;
+    border-left: 50px solid #082b19;
+}
+
+.bio_section h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #082b19;
+    border-bottom: 5px solid #082b19;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.images {
+    display: block;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500;
+}
+
+a {
+    color: #52bda4;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+}
+
+
+#main-footer {
+    background-color: #082b19;
+    color: #b6f2e4;
+    text-align: center;
+    padding: 15px;
+    border-radius: 0 0 8px 8px;
+    margin: 0px -40px -40px -40px;
+}
+
